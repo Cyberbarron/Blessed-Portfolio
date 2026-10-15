@@ -307,4 +307,13 @@ a.card {
         font-size: 0.9rem;
         white-space: nowrap;
     }
+    
+    .hero {
+        min-height: 75vh;
+    }
+
+    .about {
+        min-height:auto;
+        padding: 3rem 2rem;
+    }
 }
