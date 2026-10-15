@@ -61,9 +61,9 @@ gsap.fromTo('.w', { opacity: 0.15 }, {
 });
 
 const projects = [
-    {name: 'Chef Kitchen', text: 'One line on what it does.', tags: 'JavaScript, GSAP, CSS', featured: true, link:'https://chef-kitchen-jkpl.vercel.app/'},
-     {name: 'Nova Scroll', text: 'One line on what it does.', tags: 'JavaScript, GSAP', featured: true, link: 'https://nova-scroll-weld.vercel.app' },
-    {name: 'Slide Studios', text: 'One line on what it does.', tags: 'JavaScript, GSAP', featured: true, link: 'https://landing-slide-show.vercel.app/' },
+    {name: 'Chef Kitchen', text: 'A chef-inspired website with smooth GSAP animations and a warm, bold style', tags: 'JavaScript, GSAP, CSS', featured: true, link:'https://chef-kitchen-jkpl.vercel.app/'},
+     {name: 'Nova Scroll', text: 'A scroll-driven page where sections glide and animate as you move down', tags: 'JavaScript, GSAP', featured: true, link: 'https://nova-scroll-weld.vercel.app' },
+    {name: 'Slide Studios', text: 'A studio site built around smooth, slide-style transitions.', tags: 'JavaScript, GSAP', featured: true, link: 'https://landing-slide-show.vercel.app/' },
     {name: 'Project four', text: 'One line on what it does.', tags: 'JavaScript, GSAP', featured: true },
     {name: 'Project five', text: 'One line on what it does.', tags: 'JavaScript, GSAP', featured: false }
 ];
