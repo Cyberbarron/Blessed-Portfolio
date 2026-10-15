@@ -288,3 +288,22 @@ a.card {
     color: inherit;
     text-decoration: none;
 }
+
+@media (max-width: 600px) {
+    nav {
+        padding: 1rem 1.2rem;
+    }
+
+    nav .name {
+        font-size: 1.6rem;
+    }
+
+    nav ul {
+        gap: 0.9rem;
+    }
+
+    nav ul a {
+        font-size: 0.9rem;
+        white-space: nowrap;
+    }
+}
